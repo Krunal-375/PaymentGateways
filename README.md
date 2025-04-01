@@ -4,7 +4,7 @@ This project demonstrates the integration of multiple payment gateways, includin
 
 ## Live Demo
 
-Check out the live demo [here](https://payment-gateways-demo.vercel.app).
+Check out the live demo [here](https://payment-gateways-lake.vercel.app/).
 
 ## Features
 
